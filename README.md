@@ -8,7 +8,7 @@ Over the past year, I have been working as a Java Software Engineer, building up
 ### Talking about Personal Stuffs:
 
 - 👨‍🎓 I studied computer science and graduated from University of Sussex.
-- 🔭 I’m currently working as a Java Software Engineer in FinTech industry.
+- 🔭 I have one year experience working as a Java Software Engineer in FinTech industry.
 - 🌱 The technologies that I've been working on:
   - Java, Spring Boot Hibernate
   - Redis, RabbitMQ,Jira,Confluence,Docker, Prometheus/Grafana & Splunk, PostgreSql, Sql Server.
